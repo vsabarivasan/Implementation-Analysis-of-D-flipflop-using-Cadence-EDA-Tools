@@ -66,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![WhatsApp Image 2024-10-19 at 12 06 27_ef35af13](https://github.com/user-attachments/assets/c7827235-bbf1-4fcf-882a-3d7526f47a16)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +80,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![WhatsApp Image 2024-10-19 at 12 06 05_57bdd1bc](https://github.com/user-attachments/assets/eaacf6b7-a39c-4f03-889b-c647666faada)
+
 
 
  
@@ -101,19 +103,9 @@ For Transient Analysis Settings and Output
  
  ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+ ![Screenshot_2024-10-19_115442 1](https://github.com/user-attachments/assets/4f44e14a-a71f-458c-bfef-ece3c34b07a2)
+
 
 
 Results:
 The design and implementation of the D-flip-flop using Cadence EDA tools were successfully completed. The simulated results confirmed the correct operation of the flip-flop, with proper synchronization of the input data with the clock signal. Key performance parameters such as propagation delay, power consumption, and area utilization were evaluated, aligning with expected theoretical values.
-
-
-
-
-
-
-
-
-
-
-
